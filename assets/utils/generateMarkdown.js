@@ -11,15 +11,15 @@ const generateMarkdown = data => {
 ${data.description}
 
 ## Table of Contents
-- [Installation]
-- [Usage]
-- [License]
-- [Contributors]
-- [Tests]
-- [Questions]
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributors](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
-${data.installation}
+${data.install}
 
 
 ## Usage

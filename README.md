@@ -24,34 +24,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-
-
-## Table of Contents
-
-
-
-## Installations
-clone repository from github download node and system inquirer
-
-
-## Usage
-
-
-
 ## Credits
+screenshots [Alt text](assets/img/readmegenerator1.png)
+![Alt text](assets/img/readmegenerator2.png)
 
 
-## License
-MIT licensed
-
-
-## Features
-
-
-## How to contribute
-
-
-## Tests
-npm test
-
-
+## Links
+Github Repo: https://github.com/ceewizz/ReadmeGenerator
+Deploy App:
+Video: 

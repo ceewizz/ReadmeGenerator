@@ -137,8 +137,8 @@ const questions = () => {
  
 
 // Create a function to write README file
-function writeToFile(fileName, data) {
-    fs.writeFile('README.md', data, error => {
+const writeFile = data => {
+    fs.writeFile('README.md', data, err => {
         // Error
         if(err) {
             console.log(err);
@@ -150,6 +150,7 @@ function writeToFile(fileName, data) {
         }
         })
     };
+    
     
    questions()
    .then(answers => {
