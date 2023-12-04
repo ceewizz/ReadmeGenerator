@@ -31,7 +31,7 @@ THEN I am taken to the corresponding section of the README
 
 
 ## Installations
-
+clone repository from github download node and system inquirer
 
 
 ## Usage
@@ -42,7 +42,7 @@ THEN I am taken to the corresponding section of the README
 
 
 ## License
-
+MIT licensed
 
 
 ## Features
@@ -52,5 +52,6 @@ THEN I am taken to the corresponding section of the README
 
 
 ## Tests
+npm test
 
 

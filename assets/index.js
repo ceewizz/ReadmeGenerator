@@ -4,7 +4,7 @@ const inquirer = require('inquirer');
 
 
 // directing to where the readme is dev.
-const generatePage = require('.utils/generateMarkdown.js');
+const generatePage = require('./utils/generateMarkdown.js');
 // Create an array of questions for user input
 const questions = () => {
 
