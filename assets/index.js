@@ -43,7 +43,7 @@ const questions = () => {
     },
     {
         type: 'input',
-        name: 'title    ',
+        name: 'title',
         message: 'Enter your project title',
         validate: userInput => {
             if (userInput) {
@@ -113,7 +113,7 @@ const questions = () => {
                 return true;
             }
             else {
-                console.log('Please enter an instruction to use this project');
+                console.log('Please enter instruction usage to use this project');
                 return false;
             }
         }
@@ -122,7 +122,7 @@ const questions = () => {
         type: 'input',
         name: 'test',
         message: 'Command to test this project',
-        default: 'npm test'
+        default: 'node index.js'
 
     },
     {

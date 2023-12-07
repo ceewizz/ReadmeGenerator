@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ci-test": "^0.1.11",
     "inquirer": "^6.3.1"
   }
 }

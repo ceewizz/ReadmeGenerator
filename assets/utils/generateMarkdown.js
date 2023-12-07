@@ -3,20 +3,22 @@
 
 // TODO: Create a function to generate markdown for README
 const generateMarkdown = data => {
-  return `# ${data.title}
+  return `
+## Title 
+${data.title}
   
-![Github license](http://img.shields.io/badge/license-${data.license}-blue.svg)
+
 
 ## Description
 ${data.description}
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributors](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributors](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
 ## Installation
 ${data.install}
