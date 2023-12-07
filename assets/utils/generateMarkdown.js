@@ -6,6 +6,7 @@ const generateMarkdown = data => {
   return `
 ## Title 
 ${data.title}
+![Github license](https://opensource.org/license/mit/)${data.license}
   
 
 
