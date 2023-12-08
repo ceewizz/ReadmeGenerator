@@ -16,5 +16,4 @@ screenshots and video file are in the imgvid folder
 Links:
 Github Repo: https://github.com/ceewizz/readmegenerator
 
-
-
+Video Link: https://watch.screencastify.com/v/zHLJUMkny3Q6ioelv6Ee
